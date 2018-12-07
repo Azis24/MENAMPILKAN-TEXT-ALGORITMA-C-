@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main(int argc, char** argv){
+	system ("color B");
+	int a; //inisiasi variabel
+	
+	for(a=0;a<30;a++) //perulangan for
+	{
+		cout<<"ALGORITMA DAN PEMOGRAMAN"<<endl; //stetment yang di ulang 
+	}
+	return 0;
+}
